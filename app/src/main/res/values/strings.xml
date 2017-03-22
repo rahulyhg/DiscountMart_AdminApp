@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DiscountMart Admin</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_slider">SliderActivity</string>
+    <string name="title_activity_retailers">RetailersActivity</string>
+    <string name="title_activity_retailer_category">RetailerCategoryActivity</string>
+    <string name="title_activity_servce_provider_categories">Servce Provider Categories</string>
+    <string name="title_activity_cities">Cities</string>
+</resources>
